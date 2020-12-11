@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./styles.css";
+import "./site.css";
 
 const emojiDictionary = {"🏁" :"Chequered Flag","🚩" :"Triangular Flag","🎌" :"Crossed Flags","🏴":"Black Flag",
 "🏳️‍🌈" :"Rainbow Flag","🏳️‍":"Transgender Flag","🏴‍☠️":"Pirate Flag","🇦🇨": "Ascension Island","🇦🇩": "Andorra","🇦🇪":"United Arab Emirates","🇦🇫": "Afghanistan","🇦🇬": "Antigua & Barbuda",
